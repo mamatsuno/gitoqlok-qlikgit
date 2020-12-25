@@ -27,7 +27,7 @@ Unqualify *;
 LOAD
 	[Customer_Region],
 	[Customer_Name],
-	[Customer_Code] AS [Customer_Code-顧客コード],
+	[Customer_Code],
 	[Postal_Code]
  FROM [lib://AttachedFiles/マスタ.xlsx]
 (ooxml, embedded labels, table is 得意先マスタ);
@@ -59,7 +59,7 @@ LOAD
 LOAD
 	[NO],
 	[日付],
-	[顧客コード] AS [Customer_Code-顧客コード],
+	[顧客コード],
 	[商品仕入コード],
 	[担当者コード],
 	[数量],

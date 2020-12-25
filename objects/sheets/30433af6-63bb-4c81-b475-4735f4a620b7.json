@@ -5,7 +5,7 @@
       "qType": "sheet"
     },
     "qMetaDef": {
-      "title": "新しいシート",
+      "title": "売上グラフ",
       "description": ""
     },
     "rank": null,
@@ -48,7 +48,8 @@
       "qData": {
         "title": "/title"
       }
-    }
+    },
+    "gridResolution": "small"
   },
   "qChildren": [
     {
@@ -775,7 +776,7 @@
           "sorting": "auto"
         },
         "showTitles": true,
-        "title": "",
+        "title": "売上明細",
         "subtitle": "",
         "footnote": "",
         "disableNavMenu": false,
