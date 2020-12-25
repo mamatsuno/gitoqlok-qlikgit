@@ -4,7 +4,9 @@
       "qId": "58e834b5-1f79-4fa6-8c77-d4d8563efe8e",
       "qType": "variable"
     },
-    "qMetaDef": {},
+    "qMetaDef": {
+      "isBlueprintItem": true
+    },
     "qName": "name",
     "qNumberPresentation": {
       "qType": "U",
@@ -19,7 +21,9 @@
       "qId": "b77a53b5-f7c6-49ca-bbfa-ba05f62b1b6f",
       "qType": "variable"
     },
-    "qMetaDef": {},
+    "qMetaDef": {
+      "isBlueprintItem": true
+    },
     "qName": "currentName",
     "qNumberPresentation": {
       "qType": "U",
@@ -34,7 +38,9 @@
       "qId": "f0b7e64c-21ea-47ef-89b6-34c076e3508d",
       "qType": "variable"
     },
-    "qMetaDef": {},
+    "qMetaDef": {
+      "isBlueprintItem": true
+    },
     "qName": "matches",
     "qNumberPresentation": {
       "qType": "U",
@@ -49,7 +55,9 @@
       "qId": "f9adb6ef-81bb-41ee-86b4-ec6206edd166",
       "qType": "variable"
     },
-    "qMetaDef": {},
+    "qMetaDef": {
+      "isBlueprintItem": true
+    },
     "qName": "index",
     "qNumberPresentation": {
       "qType": "U",

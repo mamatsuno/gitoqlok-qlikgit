@@ -8,7 +8,7 @@ Created By mamatsuno(mamatsuno) at Fri Dec 25 2020 10:17:34 GMT+0900 (日本標�
 
 Sheet Title | Description
 ------------ | -------------
-売上グラフ|
+新しいシート|
 
 
 

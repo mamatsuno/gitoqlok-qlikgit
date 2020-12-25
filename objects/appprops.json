@@ -5,7 +5,9 @@
         "qId": "6210a44a-8272-499b-bd87-d7e81e5ede47",
         "qType": "appprops"
       },
-      "qMetaDef": {},
+      "qMetaDef": {
+        "isBlueprintItem": true
+      },
       "sheetTitleBgColor": "",
       "sheetTitleGradientColor": "",
       "sheetTitleColor": "",
