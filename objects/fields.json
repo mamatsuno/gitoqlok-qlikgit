@@ -1,0 +1,332 @@
+[
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Field",
+    "qCardinal": 23,
+    "qTags": [
+      "$text",
+      "$key",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$FieldNo",
+    "qCardinal": 9,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Fields",
+    "qCardinal": 2,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Info",
+    "qCardinal": 1,
+    "qTags": [
+      "$text",
+      "$ascii",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Rows",
+    "qCardinal": 4,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Table",
+    "qCardinal": 4,
+    "qTags": [
+      "$text",
+      "$key",
+      "$hidden",
+      "$system"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "Customer_Code-顧客コード",
+    "qCardinal": 47,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$key"
+    ],
+    "qSrcTables": [
+      "得意先マスタ",
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "Customer_Name",
+    "qCardinal": 47,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "得意先マスタ"
+    ]
+  },
+  {
+    "qName": "Customer_Region",
+    "qCardinal": 23,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "得意先マスタ"
+    ]
+  },
+  {
+    "qName": "NO",
+    "qCardinal": 58616,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "Postal_Code",
+    "qCardinal": 47,
+    "qTags": [
+      "$text",
+      "$ascii"
+    ],
+    "qSrcTables": [
+      "得意先マスタ"
+    ]
+  },
+  {
+    "qName": "仕入先コード",
+    "qCardinal": 54,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "仕入先名",
+    "qCardinal": 54,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "仕入金額",
+    "qCardinal": 84,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "商品コード",
+    "qCardinal": 128,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "商品中分類",
+    "qCardinal": 29,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "商品仕入コード",
+    "qCardinal": 130,
+    "qTags": [
+      "$text",
+      "$ascii",
+      "$key"
+    ],
+    "qSrcTables": [
+      "商品マスタ",
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "商品名",
+    "qCardinal": 128,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "商品大分類",
+    "qCardinal": 8,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "売上",
+    "qCardinal": 5634,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "担当営業",
+    "qCardinal": 18,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "組織マスタ"
+    ]
+  },
+  {
+    "qName": "担当者コード",
+    "qCardinal": 18,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$key"
+    ],
+    "qSrcTables": [
+      "組織マスタ",
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "支社",
+    "qCardinal": 3,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "組織マスタ"
+    ]
+  },
+  {
+    "qName": "数量",
+    "qCardinal": 573,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "日付",
+    "qCardinal": 957,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "粗利",
+    "qCardinal": 14858,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "経費",
+    "qCardinal": 17818,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "売上明細"
+    ]
+  },
+  {
+    "qName": "販売単価",
+    "qCardinal": 46,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "商品マスタ"
+    ]
+  },
+  {
+    "qName": "部署名",
+    "qCardinal": 4,
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "組織マスタ"
+    ]
+  }
+]

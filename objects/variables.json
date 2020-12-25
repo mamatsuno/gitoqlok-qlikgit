@@ -1,0 +1,62 @@
+[
+  {
+    "qInfo": {
+      "qId": "58e834b5-1f79-4fa6-8c77-d4d8563efe8e",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "name",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "売上明細",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "b77a53b5-f7c6-49ca-bbfa-ba05f62b1b6f",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "currentName",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "売上明細",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "f0b7e64c-21ea-47ef-89b6-34c076e3508d",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "matches",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "0",
+    "qIsScriptCreated": true
+  },
+  {
+    "qInfo": {
+      "qId": "f9adb6ef-81bb-41ee-86b4-ec6206edd166",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "index",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "0",
+    "qIsScriptCreated": true
+  }
+]

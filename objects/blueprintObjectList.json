@@ -1,0 +1,24 @@
+{
+  "qInfos": [
+    {
+      "qId": "30433af6-63bb-4c81-b475-4735f4a620b7",
+      "qType": "sheet"
+    },
+    {
+      "qId": "6210a44a-8272-499b-bd87-d7e81e5ede47",
+      "qType": "appprops"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "NgUcuC",
+      "qType": "table"
+    },
+    {
+      "qId": "eBpnDHX",
+      "qType": "barchart"
+    }
+  ]
+}

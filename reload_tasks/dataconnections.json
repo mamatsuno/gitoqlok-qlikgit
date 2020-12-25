@@ -1,0 +1,50 @@
+[
+  {
+    "id": "47a1cfd8-f70e-4a98-a00d-00fca6c8e253",
+    "createdDate": "2020-11-19T01:24:13.523Z",
+    "modifiedDate": "2020-11-19T01:24:13.523Z",
+    "modifiedByUserName": "INTERNAL\\sa_repository",
+    "customProperties": [],
+    "owner": {
+      "id": "0ff63598-2b0f-4fbc-83cc-897516381b63",
+      "userId": "sa_repository",
+      "userDirectory": "INTERNAL",
+      "name": "sa_repository",
+      "privileges": null
+    },
+    "name": "AttachedFiles",
+    "connectionstring": "\\\\qlik-2k12se\\QlikShare\\StaticContent\\AppContent\\<APP_ID>",
+    "type": "folder",
+    "engineObjectId": "47a1cfd8-f70e-4a98-a00d-00fca6c8e253",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  },
+  {
+    "id": "1ae7508a-d8c9-4625-aadc-4504bb0c6034",
+    "createdDate": "2020-11-19T01:51:20.051Z",
+    "modifiedDate": "2020-11-19T01:51:22.162Z",
+    "modifiedByUserName": "INTERNAL\\sa_api",
+    "customProperties": [],
+    "owner": {
+      "id": "8c120c4e-d866-4427-ba4c-a55592a4448c",
+      "userId": "sa_api",
+      "userDirectory": "INTERNAL",
+      "name": "sa_api",
+      "privileges": null
+    },
+    "name": "DataPrepAppCache",
+    "connectionstring": "\\\\qlik-2k12se\\QlikShare\\Apps\\DataPrepAppCache\\<APP_ID>",
+    "type": "folder",
+    "engineObjectId": "1ae7508a-d8c9-4625-aadc-4504bb0c6034",
+    "username": "",
+    "logOn": 0,
+    "architecture": 0,
+    "tags": [],
+    "privileges": null,
+    "schemaPath": "DataConnection"
+  }
+]
